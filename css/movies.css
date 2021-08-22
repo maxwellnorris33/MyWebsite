@@ -32,10 +32,6 @@ ul.menu li:first-child{
 section{
     background:white;
     color:black;
-    background-image: url("../images/IMG_0847.JPG");
-    background-size: 100%;
-    background-position: center;
-    height: 500px;
     padding: 10px;
     display: flex;
     flex-direction: row;
